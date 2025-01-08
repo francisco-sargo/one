@@ -14,3 +14,6 @@ NEWLINE
 NEWLINE
 NEWLINE
 newline2
+newline3
+
+newline4
