@@ -3,3 +3,4 @@ newline test 1
 newline test 2 (permanent fix of diff, on new line characters.).
 newline, please fix the issue!
 new line test 4
+new line test 5
