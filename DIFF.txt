@@ -1,1 +1,2 @@
 NEW FILE FOR DIFF
+newline test 1
