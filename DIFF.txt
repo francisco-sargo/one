@@ -1,2 +1,3 @@
 NEW FILE FOR DIFF
 newline test 1
+newline test 2 (permanent fix of diff, on new line characters.).
