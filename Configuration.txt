@@ -1,2 +1,4 @@
 Configuration.txt
 Generate a conflict.
+
+Generate a merge conflict (locally).
