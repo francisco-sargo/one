@@ -25,4 +25,23 @@ print("Addition result:", result_add)
 result_subtract = subtract(x, y)
 print("Subtraction result:", result_subtract)
 
+# Function to multiply two numbers
+function multiply(a, b):
+    return a * b
+
+# Function to divide two numbers
+function divide(a, b):
+    if b != 0:
+        return a / b
+    else:
+        return "Error: Division by zero"
+
+# Perform multiplication
+result_multiply = multiply(x, y)
+print("Multiplication result:", result_multiply)
+
+# Perform division
+result_divide = divide(x, y)
+print("Division result:", result_divide)
+
 # End of placeholder code
