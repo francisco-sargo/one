@@ -44,4 +44,6 @@ print("Multiplication result:", result_multiply)
 result_divide = divide(x, y)
 print("Division result:", result_divide)
 
+# Fun, insightful print statement
+print("Math operations completed successfully! Remember, coding is like math: it requires practice and patience.")
 # End of placeholder code
