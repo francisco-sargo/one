@@ -1,1 +1,2 @@
 Configuration.txt
+Generate a conflict.
